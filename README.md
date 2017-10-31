@@ -1,4 +1,4 @@
-# Danger Puke Syntax
+# Danger Puke Syntax (With Atom Material UI)
 
 If you had a dangerous puke, this is what the syntax would look like...
 
