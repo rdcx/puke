@@ -1,0 +1,3 @@
+# Danger Puke Syntax
+
+If you had a dangerous puke, this is what the syntax would look like...

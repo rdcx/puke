@@ -1,0 +1,15 @@
+{
+  "name": "danger-puke-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "If you had a dangerous puke, this is what the syntax would look like...",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ross-chater/danger-puke-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
